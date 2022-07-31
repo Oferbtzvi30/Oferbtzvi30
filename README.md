@@ -8,7 +8,7 @@
 
 - 👋 I'm Ofer,I have a technical background and hold a bachelor's degree (B.A) in economics and management (The Open University), I have been a data analyst      in a fintech company since February 2021.
 
-- 👀 I’m interested in data analysis and machine learning
+- 👀 I’m interested in **Data analysis and Machine learning**
 
 - 🌱 I code mostly in **Python & SQL**
 
