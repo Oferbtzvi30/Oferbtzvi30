@@ -6,7 +6,7 @@
 <h3 align="left">About me:</h3>
 
 - 👋 Hi, I'm Ofer. With a B.A in Economics and Management, I've been harnessing the power of data in the fintech industry since 2021.
-- 👀 Passionate about **Data Analysis, Machine Learning, and Fraud Prevention**.
+- 👀 Passionate about **Data Analysis, and Fraud Prevention**.
 - 🌱 Coding primarily in **Python & SQL**.
 - 💞️ Seeking collaborations on **Data Analysis, Machine Learning projects, and tackling new challenges**.
 
